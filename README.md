@@ -12,3 +12,6 @@
 - Selamat Mencoba! ^^ 
 
 Bootstrap Template: Argon Admin Dashboard by <a href="https://github.com/creativetimofficial/argon-dashboard">Creative Tim</a>
+
+### Catatan
+jika terjadi error dalam kelola data pada database, silahkan import file database yang telah disediakan [siirda.sql]
